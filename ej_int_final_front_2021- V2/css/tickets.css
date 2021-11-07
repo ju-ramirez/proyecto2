@@ -1,0 +1,35 @@
+/**---------tickets---------**/
+.main-tickets{
+    width: 60% ;
+}
+.card-desc{
+    margin: 2rem auto;
+    width: 100%;
+}
+.card-1{
+    border-color:blue;
+}
+.card-2{
+    border-color:darkcyan;
+}
+.card-3{    
+    border-color:orange;
+}
+.card-1,.card-2,.card-3{
+    margin: auto 1rem;
+}
+.card-1 p ,.card-2 p,.card-3 p{
+    width: 100%;
+    margin: 0.5rem;
+    padding: 0.5rem ;
+}
+#resum, .tick-group{
+    width: 100%;
+    margin: 2rem auto 2rem;
+}
+
+.ticket-button{
+    margin: 0.5rem;
+    background-color:rgb(91, 231, 63); 
+    border-style:none;
+}
